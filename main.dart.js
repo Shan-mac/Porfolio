@@ -64873,7 +64873,7 @@ A.a7M.prototype={
 $0(){return this.a.ii("https://www.linkedin.com/in/krishan-sivaprakasham-863b78254")},
 $S:0}
 A.a7N.prototype={
-$0(){return this.a.ii("https://github.com/Shan-mac?tab=repositories")},
+$0(){return this.a.ii("https://github.com/Shan-mac")},
 $S:0}
 A.a7I.prototype={
 $0(){return this.a.d.hw(0,B.ku,B.er)},
